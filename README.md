@@ -37,6 +37,7 @@
   </a>
 </div>
 <p align="center"> 
+  
  ## Total de Visitas no perfil :detective: <br>
  <p align="center"> 
    <img src="https://profile-counter.glitch.me/TTeuZ/count.svg" />
