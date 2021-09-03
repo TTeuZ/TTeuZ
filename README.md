@@ -36,6 +36,12 @@
     <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />
   </a>
 </div>
+<p align="center"> 
+ ## Total de Visitas no perfil :detective: <br>
+ <p align="center"> 
+   <img src="https://profile-counter.glitch.me/TTeuZ/count.svg" />
+ </p>
+</p>
 
 ![Snake animation](https://github.com/TTeuZ/TTeuZ/blob/output/github-contribution-grid-snake.svg)
 
