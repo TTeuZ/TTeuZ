@@ -1,7 +1,7 @@
-### Ola, Meu nome é Paulo Mateus Luza Alves
+### Hi, My name is Paulo Mateus Luza Alves
 
-- 🔭 Atualmente trabalho com Vue.js
-- 🌱 Atualmente estou estudando Front-End com um pezinho no Back-End
+- 🔭 For now, I'm working as a IT Trainee at Exxonmobil
+- ⚡ I'm pretty interested in Data analysis and Data Science!
 
 ## ⚡ GitHub Stats
 <div>
@@ -9,7 +9,7 @@
   <img height="174em" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TTeuZ&layout=compact&langs_count=6&theme=radical&count_private=true" />
 </div>
 
-## ⚡ Linguagens/Frameworks: 
+## ⚡ What I know: 
 <div>
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
 </div>
 
-## 📫 Você pode me encontrar aqui:
+## 📫 You can find me here:
 
 <div>
   <a href="https://www.linkedin.com/in/paulo-mateus-luza-alves-69a73a162/" target="_blank">
@@ -38,7 +38,6 @@
 </div>
 <p align="center"> 
   
- ## Total de Visitas no perfil :detective: <br>
  <p align="center"> 
    <img src="https://profile-counter.glitch.me/TTeuZ/count.svg" />
  </p>
