@@ -1,7 +1,7 @@
 ### Hi, My name is Paulo Mateus Luza Alves
 
 - 🔭 I'm working as a IT Trainee at Exxonmobil
-- ⚡ I'm pretty interested in Data analysis and Data Science!
+- ⚡ Machine Learning!
 
 ## ⚡ GitHub Stats
 <div>
