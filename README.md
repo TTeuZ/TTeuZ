@@ -5,7 +5,6 @@
   <a href="https://www.facebook.com/paulomateus.luzaalves/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" /></a>
   <a href="https://gitlab.com/TTeuZ" target="_blank"><img src="https://img.shields.io/badge/GitLab-330F63?style=flat-square&logo=gitlab&logoColor=white" /></a>
 </p>
-<p>&nbsp;</p>
 
 Hello there!
 I'm Paulo Mateus, a <b>Computer Science</b> student at <b>UFPR - Brazil</b> 😄.
@@ -13,12 +12,16 @@ I'm Paulo Mateus, a <b>Computer Science</b> student at <b>UFPR - Brazil</b> 😄
 - 🔭 I'm working as a IT Intern at Exxonmobil
 - ⚡ Interested in <b>Machine Learning!</b>
 
+<p>&nbsp;</p>
+
 ## ⚡ GitHub Stats
 <div>
-    <img alt="TTeuZ's Github Stats" height="174em" width="47%" src="https://github-readme-stats.vercel.app/api?username=TTeuZ&show_icons=true&include_all_commits=true&theme=dracula&count_private=true&hide_border=true">
+    <img alt="TTeuZ's Github Stats" height="174em" width="48%" src="https://github-readme-stats.vercel.app/api?username=TTeuZ&show_icons=true&include_all_commits=true&theme=dracula&count_private=true&hide_border=true">
     <img alt="TTeuZ's GitHub Streak" height="174em" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=TTeuZ&theme=dracula&hide_border=true">
 <!--     <img height="174em" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TTeuZ&layout=compact&langs_count=6&theme=radical&count_private=true" /> -->
 </div>
+
+<p>&nbsp;</p>
 
 ## ⚡ Stack: 
 <div>
