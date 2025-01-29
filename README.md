@@ -9,8 +9,6 @@
 Hello there!
 I'm Paulo Mateus, a <b>Master's student</b> in informatics, focusing in Machine Learning, at <b>UFPR - Brazil</b> 😄.
 
-a <b>Computer Science</b> student at <b>UFPR - Brazil</b> 😄.
-
 - 🔭 I'm working as a Software Engineer at Exxonmobil
 - ⚡ Interested in <b>Machine Learning!</b>
 
